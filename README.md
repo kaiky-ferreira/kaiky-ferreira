@@ -1,2 +1,4 @@
 ## ⬛
-![ME](skull.gif)
+<p align="center">
+  <img src="skull.gif" />
+</p>
