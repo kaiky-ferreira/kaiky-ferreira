@@ -2,7 +2,5 @@
   <img src="skull.gif" />
 </p>
 <h1 align="center">𝙷𝚎𝚢</h1>
-> I like:
->> Computers
->> Music
->> Horror
+<p align="center">I like:</p>
+<li>Computers </br> Music </br> Horror </br></li>
