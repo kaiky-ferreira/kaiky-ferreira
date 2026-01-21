@@ -5,7 +5,7 @@
 
 <br><br><br>
 <div align="center">
-  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=442&height=50&backgroundColor=%23000000&backgroundOpacity=0.1&border=false&lines=%5B%7B%22text%22%3A%22Tools%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.1%7D%5D" alt="Typing SVG" /></a>
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=442&height=50&backgroundColor=%23000000&backgroundOpacity=0.1&border=false&lines=%5B%7B%22text%22%3A%22Tools:%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.1%7D%5D" alt="Typing SVG" /></a>
 </div>
 
 <br>
