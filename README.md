@@ -17,3 +17,9 @@
   <img src="icons/javascript.svg" width="50" alt="JS Logo" style="margin-right: 10px;">
   <img src="icons/postgresql.svg" width="50" alt="PostgreSQL Logo" style="margin-right: 10px;">
 </div>
+<br><br>
+<div align="center">
+  <a href="https://www.last.fm/user/Pimentellll">
+    <img src="https://now-listening-weld.vercel.app/api" width="300" />
+  </a>
+</div>
